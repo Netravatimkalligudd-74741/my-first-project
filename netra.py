@@ -1,4 +1,4 @@
 a=10
 b=20
 print(a+b)
-print("welcome")
+print("welcome to the github")
